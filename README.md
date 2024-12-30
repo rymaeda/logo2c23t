@@ -4,9 +4,10 @@ If you are searching for a way to customize the splash screen of a Fnirsi multim
 
 Here, I am sharing some images ready to be installed on that device, and I am also sharing the GIMP file used to generate these images, so you can create your own custom images with GIMP.
 
+![Custom splash screens](https://github.com/rymaeda/logo2c23t/blob/main/photo_2c23t.jpg)
+
 ![Custom splash screens](https://github.com/rymaeda/logo2c23t/blob/main/logo2c23.gif)
 
-![Custom splash screens](https://github.com/rymaeda/logo2c23t/blob/main/photo_2c23t.jpg)
 ## Files in this repo
 
 **image-srcs.zip**: source image files use to produce my images. Some of the images was created by Copilot and some come from Freepiks.com. The Fnirsi logo was grabed of image on official site with the use of inkscape to catch them vectorized.
