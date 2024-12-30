@@ -6,7 +6,7 @@ Here, I am sharing some images ready to be installed on that device, and I am al
 
 ![Custom splash screens](https://github.com/rymaeda/logo2c23t/blob/main/logo2c23.gif)
 
-
+![Custom splash screens](https://github.com/rymaeda/logo2c23t/blob/main/photo_2c23t.jpg)
 ## Files in this repo
 
 **image-srcs.zip**: source image files use to produce my images. Some of the images was created by Copilot and some come from Freepiks.com. The Fnirsi logo was grabed of image on official site with the use of inkscape to catch them vectorized.
